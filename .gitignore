@@ -1,0 +1,8 @@
+# Built binaries
+/zee-line
+/zee-line.exe
+*.exe
+
+# Go
+*.test
+*.out
